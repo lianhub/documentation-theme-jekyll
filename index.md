@@ -7,6 +7,14 @@ permalink: index.html
 summary: These brief instructions will help you get started quickly with IgH EtherCAT master on PI. 
 ---
 
+## Download "Raspian Jessis with desktop"
+
+Version:July 2017
+
+Release date:2017-07-05
+
+Kernel version:4.9
+
 ## RT-preempt patch
 
 Follow these instructions to [Get a basic Machinekit / EtherCAT system on the Raspberry PI 3 Model B](https://github.com/koppi/mk/blob/master/Machinekit-RT-Preempt-RPI.md)
@@ -32,7 +40,7 @@ It appears that what did the trick has been the order of the fiq disable command
 
 with my own version
 
-### 1. Edit etc/sysconfig/ethercat: MAC address, "generic"
+### 1. Edit etc/sysconfig/ethercat: MAC address, "generic", modprobe/depmod?
 
 In case you haven't.
 
