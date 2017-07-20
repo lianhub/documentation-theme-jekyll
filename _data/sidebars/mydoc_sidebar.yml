@@ -23,20 +23,20 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: EtherCAT on PI-3
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Eagle PCB
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: XMOS Coding
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Kinetis Coding
       url: /mydoc_about.html
       output: web, pdf
 

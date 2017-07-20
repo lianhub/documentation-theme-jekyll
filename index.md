@@ -4,7 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with IgH EtherCAT master on PI. 
+summary: These brief instructions will help you get started quickly with IgH EtherCAT master on PI.
 ---
 
 ## Download "Raspian Jessis with desktop"
@@ -44,15 +44,19 @@ with my own version
 
 In case you haven't.
 
-## Install linuxcnc-ethercat
+### 2. Copy to appropriate folders: lcec.so, lcec_conf, libethercat.so
+
+yes
+
+## Install machinekit, machinekit-dev
 
 the easiest way to see how your site would actually look.
 
-## Install machinekit
+## Install linuxcnc-ethercat (machinekit-dev is required)
 
 the easiest way to see how your site would actually look.
 
-## Configure the sidebar
+## ============== end ============
 
 There are several products in this theme. Each product uses a different sidebar. This is the essence of what makes this theme unique -- different sidebars for different product documentation. The idea is that when users are reading documentation for a specific product, the sidebar navigation should be specific to that product. (You can read more of my thoughts on why multiple sidebars are important in this [blog post](http://idratherbewriting.com/2016/03/23/release-of-documentation-theme-for-jekyll-50/).)
 

@@ -5,11 +5,15 @@ permalink: mydoc_introduction.html
 folder: mydoc
 ---
 
-## Overview
+## BOM automation
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+Follows the link to [Runs the selected string as a command line parameter of a local program via right-click or Tools menu](https://addons.mozilla.org/en-US/firefox/addon/runwith/)
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+Follow the link to [Streamline your parts ordering process through Eagle.](https://www.nycresistor.com/2013/11/03/streamline-your-parts-ordering-process-through-eagle/)
+
+Follow the link to [Eagle: Managing parts with BOM-EX](http://www.bot-thoughts.com/2012/03/eagle-managing-parts-with-bom-ex.html)
+
+Follow the link he instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
 
 ## Survey of features
 
